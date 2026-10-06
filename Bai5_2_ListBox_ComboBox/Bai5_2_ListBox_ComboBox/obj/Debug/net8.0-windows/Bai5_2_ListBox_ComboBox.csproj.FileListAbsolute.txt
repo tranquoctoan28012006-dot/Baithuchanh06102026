@@ -1,0 +1,15 @@
+C:\Users\Admin\Downloads\Bai5_2_ListBox_ComboBox\Bai5_2_ListBox_ComboBox\bin\Debug\net8.0-windows\Bai5_2_ListBox_ComboBox.exe
+C:\Users\Admin\Downloads\Bai5_2_ListBox_ComboBox\Bai5_2_ListBox_ComboBox\bin\Debug\net8.0-windows\Bai5_2_ListBox_ComboBox.deps.json
+C:\Users\Admin\Downloads\Bai5_2_ListBox_ComboBox\Bai5_2_ListBox_ComboBox\bin\Debug\net8.0-windows\Bai5_2_ListBox_ComboBox.runtimeconfig.json
+C:\Users\Admin\Downloads\Bai5_2_ListBox_ComboBox\Bai5_2_ListBox_ComboBox\bin\Debug\net8.0-windows\Bai5_2_ListBox_ComboBox.dll
+C:\Users\Admin\Downloads\Bai5_2_ListBox_ComboBox\Bai5_2_ListBox_ComboBox\bin\Debug\net8.0-windows\Bai5_2_ListBox_ComboBox.pdb
+C:\Users\Admin\Downloads\Bai5_2_ListBox_ComboBox\Bai5_2_ListBox_ComboBox\obj\Debug\net8.0-windows\Bai5_2_ListBox_ComboBox.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Downloads\Bai5_2_ListBox_ComboBox\Bai5_2_ListBox_ComboBox\obj\Debug\net8.0-windows\Bai5_2_ListBox_ComboBox.AssemblyInfoInputs.cache
+C:\Users\Admin\Downloads\Bai5_2_ListBox_ComboBox\Bai5_2_ListBox_ComboBox\obj\Debug\net8.0-windows\Bai5_2_ListBox_ComboBox.AssemblyInfo.cs
+C:\Users\Admin\Downloads\Bai5_2_ListBox_ComboBox\Bai5_2_ListBox_ComboBox\obj\Debug\net8.0-windows\Bai5_2_ListBox_ComboBox.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\Bai5_2_ListBox_ComboBox\Bai5_2_ListBox_ComboBox\obj\Debug\net8.0-windows\Bai5_2_ListBox_ComboBox.dll
+C:\Users\Admin\Downloads\Bai5_2_ListBox_ComboBox\Bai5_2_ListBox_ComboBox\obj\Debug\net8.0-windows\refint\Bai5_2_ListBox_ComboBox.dll
+C:\Users\Admin\Downloads\Bai5_2_ListBox_ComboBox\Bai5_2_ListBox_ComboBox\obj\Debug\net8.0-windows\Bai5_2_ListBox_ComboBox.pdb
+C:\Users\Admin\Downloads\Bai5_2_ListBox_ComboBox\Bai5_2_ListBox_ComboBox\obj\Debug\net8.0-windows\Bai5_2_ListBox_ComboBox.genruntimeconfig.cache
+C:\Users\Admin\Downloads\Bai5_2_ListBox_ComboBox\Bai5_2_ListBox_ComboBox\obj\Debug\net8.0-windows\ref\Bai5_2_ListBox_ComboBox.dll
+C:\Users\Admin\Downloads\Bai5_2_ListBox_ComboBox\Bai5_2_ListBox_ComboBox\obj\Debug\net8.0-windows\Bai5_2_L.34034B8E.Up2Date
